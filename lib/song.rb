@@ -19,7 +19,7 @@ class Song
     song = self.new(file[1])
     song.artist_name=(file[0])
     song
-    binding.pry 
+    #binding.pry 
   end 
 
 end 
