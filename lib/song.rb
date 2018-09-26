@@ -22,13 +22,8 @@ class Song
     song = self.new(file[1])
     #binding.pry
     song.artist_name=(file[0])
-    #song.artist = new_artist
-    #song.artist.name 
-    #song.artist = file[0]
+    
     #song.artist = Artist.find_or_create_by_name(file[0])
-    #song.artist = artist
-    #song.artist.name = file[0]
-    #song.artist.name
-  end
+  end 
 
 end 
